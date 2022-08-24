@@ -20,6 +20,8 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
+Web Design: HTML5UP
+
 	Demo Images:
 		Unsplash (unsplash.com)
 
